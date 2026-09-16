@@ -1,0 +1,12 @@
+Homepage hero expects these exact files in this folder:
+
+lovesprcnhsbg.png
+schoollogo1.png
+dsologo.png
+depedlogo.png
+rcologo.png
+
+Order of the three smaller logos:
+1. dsologo.png
+2. depedlogo.png
+3. rcologo.png

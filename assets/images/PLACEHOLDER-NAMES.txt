@@ -1,0 +1,28 @@
+Placeholder image names
+
+logoimage1.svg   = main school logo
+schoolimage1.svg = About carousel image 1
+schoolimage2.svg = About carousel image 2
+schoolimage3.svg = About carousel image 3
+schoolimage4.svg = About carousel image 4
+
+When you get the real images, you can either:
+1. replace these files while keeping the same names, or
+2. use JPG/PNG/WebP and update the matching src="" in the HTML.
+
+Example:
+assets/images/logoimage1.png
+assets/images/schoolimage1.jpg
+
+
+Additional placeholders
+
+teacherimage1.svg = personnel photo 1
+teacherimage2.svg = personnel photo 2
+teacherimage3.svg = personnel photo 3
+
+newsimage1.svg = news image 1
+newsimage2.svg = news image 2
+newsimage3.svg = news image 3
+
+aboutbackground1.svg = About SPRCNHS page header background image
