@@ -2449,3 +2449,16 @@ footer a:hover {
 .article-layout:has(> .article-body:only-child) {
     grid-template-columns: minmax(0, 1fr);
 }
+.probe-cover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.probe-cover img {
+  width: 100%;
+  max-width: 350px;
+  max-height: 320px;
+  object-fit: contain;
+  border-radius: 12px;
+}
